@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FreeFall</string>
+    <string name="play">Играть</string>
+    <string name="profile">Профиль</string>
+    <string name="sorry">Извините, нет денег на сервер :( </string>
+    <string name="email">Email</string>
+    <string name="pass">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="login">Логин</string>
+    <string name="sign_up">Регистрация</string>
+
+</resources>

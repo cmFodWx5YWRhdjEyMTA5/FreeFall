@@ -1,0 +1,4 @@
+#Mon Jun 03 04:14:45 MSK 2019
+base.0=/home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/ba931801bb143786e90f1711fa8dfabe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/3f381c252dc1a729c951f30198aec1dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/8cdcb94d64a3f68cedddd1ca7746f13b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0107de0bff7fe72fc9023940884e909a/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/cd6463e4eb74d42845e9244abe37adcc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/a4fd371e7e5c7fc1e66cfb89eca47c20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/32a03e7fc1f7445ef61d4e53b2709375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/3eb9788fd5f41c5fc0f79049ae828086/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/4214008adf7b1de636d5015044c7e67d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/21e4f33946d3f4be72b6bd24deff076e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/54a7415d33ecfd6bdf01fc1dcead818f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0a0c0ba2b29b75fac345bd6c20374201/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/c23cf5a2f8df2590c358eb3cbff07d66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/bbb9aaeab3187eb480fcfd495e632546/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/2e32d04f269582f4d9300683f110d98d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/06427c83a04df910658d1feeab7af27d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/debf5c12a9d8d94892bb61fd066dd724/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/f44f4ac89fbe849ade5835e8d8a69217/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/6f695f0e30d97144ceac08dc8c64ca95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/4c1e4f213af8cb5679578ad8b9d856a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/44bfd9ae8472502df154294cffe9d3e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/8395abbbb3ed227bab663126fd094992/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/034394f69c64b8d5a933d1ede5baa789/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/7fafd04cb3a6d9e0c34e8f66f3ba9a3a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/267084d7e94d82ee6b3a95ff1f0d7362/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/da6cbfe252b302f8f44b4b7154c800a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/5a0d8301e3fddd0b499a29925db5fd99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/d978da5e97d91f191920f8c5458e860c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/5b06e7cb0b7ec7080f6b4756c5addbe5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/1b9d4936ef47a7311d2c5e740657daf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0762f3ad797010d97879639296e549a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/63841f16481d7295f6127c01e8c3b57e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/09d152d3a557f243c3ce9ed90b66a7fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/ec85ff5edab7cbb230c3afa0572a61c5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support:design:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/ba931801bb143786e90f1711fa8dfabe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/ba931801bb143786e90f1711fa8dfabe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/8cdcb94d64a3f68cedddd1ca7746f13b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/8cdcb94d64a3f68cedddd1ca7746f13b/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/cd6463e4eb74d42845e9244abe37adcc/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/cd6463e4eb74d42845e9244abe37adcc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/034394f69c64b8d5a933d1ede5baa789/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/034394f69c64b8d5a933d1ede5baa789/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/7fafd04cb3a6d9e0c34e8f66f3ba9a3a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/7fafd04cb3a6d9e0c34e8f66f3ba9a3a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/034394f69c64b8d5a933d1ede5baa789/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.develop.loginov.freefall.profile.ProfileActivity
+ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:12:9-70
+	android:name
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:12:19-58
+activity#com.develop.loginov.freefall.game.GameActivity
+ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:13:9-15:53
+	android:screenOrientation
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:15:13-50
+	android:name
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:14:13-46
+activity#com.develop.loginov.freefall.main.MainActivity
+ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:name
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:17:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/ba931801bb143786e90f1711fa8dfabe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/ba931801bb143786e90f1711fa8dfabe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/3f381c252dc1a729c951f30198aec1dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/3f381c252dc1a729c951f30198aec1dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/8cdcb94d64a3f68cedddd1ca7746f13b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/8cdcb94d64a3f68cedddd1ca7746f13b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0107de0bff7fe72fc9023940884e909a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0107de0bff7fe72fc9023940884e909a/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/cd6463e4eb74d42845e9244abe37adcc/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/cd6463e4eb74d42845e9244abe37adcc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/a4fd371e7e5c7fc1e66cfb89eca47c20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/a4fd371e7e5c7fc1e66cfb89eca47c20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/32a03e7fc1f7445ef61d4e53b2709375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/32a03e7fc1f7445ef61d4e53b2709375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/3eb9788fd5f41c5fc0f79049ae828086/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/3eb9788fd5f41c5fc0f79049ae828086/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/4214008adf7b1de636d5015044c7e67d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/4214008adf7b1de636d5015044c7e67d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/21e4f33946d3f4be72b6bd24deff076e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/21e4f33946d3f4be72b6bd24deff076e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/54a7415d33ecfd6bdf01fc1dcead818f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/54a7415d33ecfd6bdf01fc1dcead818f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0a0c0ba2b29b75fac345bd6c20374201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0a0c0ba2b29b75fac345bd6c20374201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/c23cf5a2f8df2590c358eb3cbff07d66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/c23cf5a2f8df2590c358eb3cbff07d66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/bbb9aaeab3187eb480fcfd495e632546/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/bbb9aaeab3187eb480fcfd495e632546/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/2e32d04f269582f4d9300683f110d98d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/2e32d04f269582f4d9300683f110d98d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/06427c83a04df910658d1feeab7af27d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/06427c83a04df910658d1feeab7af27d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/debf5c12a9d8d94892bb61fd066dd724/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/debf5c12a9d8d94892bb61fd066dd724/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/f44f4ac89fbe849ade5835e8d8a69217/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/f44f4ac89fbe849ade5835e8d8a69217/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/6f695f0e30d97144ceac08dc8c64ca95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/6f695f0e30d97144ceac08dc8c64ca95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/4c1e4f213af8cb5679578ad8b9d856a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/4c1e4f213af8cb5679578ad8b9d856a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/44bfd9ae8472502df154294cffe9d3e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/44bfd9ae8472502df154294cffe9d3e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/8395abbbb3ed227bab663126fd094992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/8395abbbb3ed227bab663126fd094992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/034394f69c64b8d5a933d1ede5baa789/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/034394f69c64b8d5a933d1ede5baa789/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/7fafd04cb3a6d9e0c34e8f66f3ba9a3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/7fafd04cb3a6d9e0c34e8f66f3ba9a3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/267084d7e94d82ee6b3a95ff1f0d7362/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/267084d7e94d82ee6b3a95ff1f0d7362/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/da6cbfe252b302f8f44b4b7154c800a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/da6cbfe252b302f8f44b4b7154c800a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/5a0d8301e3fddd0b499a29925db5fd99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/5a0d8301e3fddd0b499a29925db5fd99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/d978da5e97d91f191920f8c5458e860c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/d978da5e97d91f191920f8c5458e860c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/5b06e7cb0b7ec7080f6b4756c5addbe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/5b06e7cb0b7ec7080f6b4756c5addbe5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/1b9d4936ef47a7311d2c5e740657daf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/1b9d4936ef47a7311d2c5e740657daf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0762f3ad797010d97879639296e549a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/0762f3ad797010d97879639296e549a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/63841f16481d7295f6127c01e8c3b57e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/63841f16481d7295f6127c01e8c3b57e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/09d152d3a557f243c3ce9ed90b66a7fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/09d152d3a557f243c3ce9ed90b66a7fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/ec85ff5edab7cbb230c3afa0572a61c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pupptmstr/.gradle/caches/transforms-2/files-2.1/ec85ff5edab7cbb230c3afa0572a61c5/AndroidManifest.xml:20:5-44
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+		ADDED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pupptmstr/Documents/CodingProjects/FreeFall/FreeFall-client/app/src/main/AndroidManifest.xml
